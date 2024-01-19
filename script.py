@@ -1,46 +1,46 @@
 StartTxT = """
-Hello {mention}
+שלום {mention}
 
-I'm an advanced filter bot with many capabilities!
+אני בוט פילטר מתקדם עם יכולות רבות!
 
-There is no practical limits for my filtering capacity :)
+אין מגבלות מעשיות ליכולת הסינון שלי :)
 
-See help button for commands and more details
+ראה כפתור עזרה לפקודות ופרטים נוספים
 """
 
 HelpTxT = """
-Add me as admin in your group and start filtering :)
+If you want me to send movies in your group, add me as an administrator to the group :)
 
 <b>Basic Commands;</b>
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+/start - תבדוק אם אני חי!
+/help - עזרה בפקודה
+/about - משהו עליי!
 
 <b>Filter Commands;</b>
 
-<code>/add name reply</code>  -  Add filter for name
-<code>/del name</code>  -  Delete filter
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-<code>/viewfilters</code>  -  List all filters in chat
+<code>/add name reply</code>  -  הוסף מסנן לשם
+<code>/del name</code>  -  מחק מסנן
+<code>/delall</code>  -  מחק מסננים שלמים (בעל קבוצה בלבד!)
+<code>/viewfilters</code>  -  רשום את כל המסננים בצ'אט
 
 <b>Connection Commands;</b>
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
-<code>/connections</code>  -  Manage your connections.
+<code>/connect groupid</code>  -  חבר את הקבוצה שלך לראש הממשלה שלי. אתה יכול גם פשוט להשתמש,
+<code>/connect</code> בקבוצות.
+<code>/connections</code>  -  נהל את הקשרים שלך.
 
 <b>Extras;</b>
-/status  -  Shows current status of your bot (Auth User Only)
-/id  -  Shows ID information
-/info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
+/status  -  מציג את הסטטוס הנוכחי של הבוט שלך (Auth User בלבד)
+/id  -  מציג מידע מזהה
+/info userid  -  מציג מידע משתמש. השתמש ב-<code>/info</code> כמענה להודעה כלשהי לקבלת הפרטים שלהם!
 
-© @learningbots79
+© @FOBI438
 """
 
 AboutTxT = """
-⭕️ Official Channel : @learningbots79</b>
-⭕️ Developers : @TroJanzHEX 
-⭕️ Upgrader : @Mo_Tech_YT
-⭕️ Language : Python3
+⭕️ הערוץ הרשמי : @FOBI438</b>
+⭕️ מתכנת : @Mods1234 
+⭕️ לעדכונים : @FOBI438
+⭕️ שפה תכנות : Python3
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
 """
